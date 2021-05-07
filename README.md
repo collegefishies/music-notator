@@ -10,6 +10,11 @@
 #Installation
 How I installed my packages
 
+
 ## Virtual Environment
+`conda create --name musicnotator`
 
 ## pyqt
+```
+conda install pyqt
+```
